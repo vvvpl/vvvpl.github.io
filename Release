@@ -1,0 +1,9 @@
+Origin: vvvpl's Repo
+Label: vvvpl's Repo
+Suite: stable
+Version: 1.0
+Codename: vvvpl
+Architectures: iphoneos-arm
+Components: main
+Description: vvvpl's Repo
+MD5Sum:

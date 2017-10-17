@@ -1,0 +1,16 @@
+Package: com.vvvpl.hungryjackshack
+Version: 0.0.1-70+debug
+Architecture: iphoneos-arm
+Maintainer: vvvpl
+Installed-Size: 10088
+Depends: mobilesubstrate
+Filename: ./com.vvvpl.hungryjackshack_0.0.1-70+debug_iphoneos-arm.deb
+Size: 10304152
+MD5sum: debb680fd262e083610abde5587bce46
+SHA1: 88805b2a79b226379fdbc86b2d4c7af5d2502a03
+SHA256: e79540074ad959d5941bfac9d802ada543081207d4d15845b3f220cab1d3f788
+Section: Tweaks
+Description: A tweak for the Hungry Jack's Spin and Win App that allows you to pick what prize you would like to win out of the completely free prizes they have to offer including the Bacon Deluxe, Whopper Jnr, a refreshing frozen coke and many more. I am still working on a "One prize a day" workaround.
+Author: vvvpl
+Name: Hungry Jack's Hack
+
