@@ -1,8 +1,8 @@
-Origin: vvvpl's Repo
-Label: vvvpl's Repo
+Origin: vvvpl
+Label: vvvpl
 Suite: stable
 Version: 1.0
-Codename: vvvpl
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: vvvpl's Repo
