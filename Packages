@@ -1,14 +1,14 @@
 Package: com.vvvpl.hungryjackshack
-Version: 1.0-10+debug
+Version: 1.0-11+debug
 Architecture: iphoneos-arm
 Maintainer: vvvpl <vvvpl@cock.li>
 Installed-Size: 11420
 Depends: mobilesubstrate
-Filename: ./debs/com.vvvpl.hungryjackshack_1.0-10+debug_iphoneos-arm.deb
+Filename: ./debs/com.vvvpl.hungryjackshack_1.0-11+debug_iphoneos-arm.deb
 Size: 11668006
-MD5sum: 9b9f9578af740b624f6e0cf0d14677dc
-SHA1: df36bf0cb8a2c6df0ad795d6b6aa886e6ed6e6bf
-SHA256: d5b49563c8611a4e43143bb2ca8e5ace84c176240a9df4dc87c050b108b002e7
+MD5sum: 516dcc389adc17fa843a8dbbd4aa4448
+SHA1: 9eafc06635f90d73647501c2f4001c751da20c06
+SHA256: ddc707137f6680bcc74bee76bd98aadb30f6ea53016c0729b87e544fce7df018
 Section: Tweaks
 Description: A hack for the Hungry Jack's App
 Author: vvvpl <vvvpl@cock.li>
