@@ -16,16 +16,16 @@ Depiction: https://vvvpl.github.io/depic/com.vvvpl.hungryjackshack/index.html
 Name: Hungry Jack's Hack
 
 Package: com.vvvpl.nightmodeforsnapchat
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: vvvpl
-Installed-Size: 2620
+Installed-Size: 3324
 Depends: mobilesubstrate
-Filename: ./debs/com.vvvpl.nightmodeforsnapchat_1.0_iphoneos-arm.deb
-Size: 2624620
-MD5sum: 2989c5b091910ed1cb237f7d20860cf9
-SHA1: 06e5b9f9d1f963549b4bea280c39ec72f4a4d324
-SHA256: c300394c4542d0278c58b148a1582cb056062d20188d003ef2812c0fadf9c964
+Filename: ./debs/com.vvvpl.nightmodeforsnapchat_1.1_iphoneos-arm.deb
+Size: 3327594
+MD5sum: f2611a12f14cd881ebb6f24fa41aaf8c
+SHA1: eb3759d7c3ec74d653c624d0588eeba9ea73f328
+SHA256: a8be0732cd5d150148a19e6d13f41c6fcef5f8ec5ed0cb94066e21f8fb6092c8
 Section: Tweaks
 Description: The first full fledged night-mode for snapchat containing the popular Reddit & Twitter night-mode UI styles.
 Author: vvvpl
