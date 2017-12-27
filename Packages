@@ -22,10 +22,10 @@ Maintainer: vvvpl
 Installed-Size: 2620
 Depends: mobilesubstrate
 Filename: ./debs/com.vvvpl.nightmodeforsnapchat_1.0_iphoneos-arm.deb
-Size: 2624592
-MD5sum: fcdf2e0a1fa4530f2f9694d349e230c1
-SHA1: 44f9bda0b6d054b9e80636bc0c964e0b62828da6
-SHA256: fdb677bae24dd8b39921dfd640d630eed3e834e4458ec4672c5b7f64c11b89f9
+Size: 2624620
+MD5sum: 2989c5b091910ed1cb237f7d20860cf9
+SHA1: 06e5b9f9d1f963549b4bea280c39ec72f4a4d324
+SHA256: c300394c4542d0278c58b148a1582cb056062d20188d003ef2812c0fadf9c964
 Section: Tweaks
 Description: The first full fledged night-mode for snapchat containing the popular Reddit & Twitter night-mode UI styles.
 Author: vvvpl
