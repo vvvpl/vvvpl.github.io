@@ -14,3 +14,21 @@ Description: A hack for the Hungry Jack's App
 Author: vvvpl <vvvpl@cock.li>
 Depiction: https://vvvpl.github.io/depic/com.vvvpl.hungryjackshack/index.html
 Name: Hungry Jack's Hack
+
+Package: com.vvvpl.nightmodeforsnapchat
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: vvvpl
+Installed-Size: 2620
+Depends: mobilesubstrate
+Filename: ./debs/com.vvvpl.nightmodeforsnapchat_1.0_iphoneos-arm.deb
+Size: 2624592
+MD5sum: fcdf2e0a1fa4530f2f9694d349e230c1
+SHA1: 44f9bda0b6d054b9e80636bc0c964e0b62828da6
+SHA256: fdb677bae24dd8b39921dfd640d630eed3e834e4458ec4672c5b7f64c11b89f9
+Section: Tweaks
+Description: The first full fledged night-mode for snapchat containing the popular Reddit & Twitter night-mode UI styles.
+Author: vvvpl
+Depiction: https://vvvpl.github.io/depic/com.vvvpl.nightmodeforsnapchat/index.html
+Icon: file:///Library/PreferenceBundles/prefbundle.bundle/NightmodeIcon.png
+Name: Nightmode for Snapchat
