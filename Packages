@@ -30,5 +30,5 @@ Section: Tweaks
 Description: The first full fledged night-mode for snapchat containing the popular Reddit & Twitter night-mode UI styles.
 Author: vvvpl
 Depiction: https://vvvpl.github.io/depic/com.vvvpl.nightmodeforsnapchat/index.html
-Icon: file:///Library/PreferenceBundles/prefbundle.bundle/NightmodeIcon.png
+Icon: file:///Library/PreferenceBundles/prefbundle.bundle/icon.png
 Name: Nightmode for Snapchat
